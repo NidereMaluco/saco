@@ -1,0 +1,33 @@
+.titulo_principal {
+    text-align: center; color: white; font-size: 100px; 
+    -webkit-text-stroke-color: #ff000056; 
+    -webkit-text-stroke-width: 3px;
+}
+
+.saco{
+    background-image: url("cabeçalho.jpg");
+    background-position: center;
+    background-size: cover;
+    background: linear-gradient(to bottom, #ffffff00, #000000);
+}
+
+
+
+
+
+.corpo {
+    background-color: #f3e7d7;
+}
+.cabecalho {
+    padding: 50px; /* Espaçamento interno do cabeçalho */
+    text-align: center; /* Alinhamento do texto */
+
+}    
+.pinto {
+    display: flex;
+}    
+
+.a {
+color: #f16359;
+}
+
